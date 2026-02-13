@@ -1,0 +1,7 @@
+{
+  "name": "Copy of PromptGallery",
+  "description": "A premium AI-generated image social feed where users explore high-quality prompts and art with sophisticated ranking algorithms.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
